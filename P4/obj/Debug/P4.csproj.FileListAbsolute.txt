@@ -1,0 +1,8 @@
+C:\Users\Dede\source\repos\P4\P4\bin\Debug\P4.exe.config
+C:\Users\Dede\source\repos\P4\P4\bin\Debug\P4.exe
+C:\Users\Dede\source\repos\P4\P4\bin\Debug\P4.pdb
+C:\Users\Dede\source\repos\P4\P4\obj\Debug\P4.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\P4\P4\obj\Debug\P4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dede\source\repos\P4\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\P4\P4\obj\Debug\P4.exe
+C:\Users\Dede\source\repos\P4\P4\obj\Debug\P4.pdb
