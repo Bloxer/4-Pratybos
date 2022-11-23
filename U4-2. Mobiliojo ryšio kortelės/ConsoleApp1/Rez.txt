@@ -1,0 +1,39 @@
+PRADINIAI DUOMENYS(SURIKIUOTI PAGAL KOMANDA IR PAVARDE)
+------------------------------------------------------------------------
+  Komanda    |     Pavarde     |  Vardas   |Sužaistos rungt.| Įvarčiai  |
+------------------------------------------------------------------------
+Banga        |  Edmundaitis    |  Edmundas |          21    |        10 |  
+Banga        |  Mantaitis      |  Mantas   |          12    |         6 |  
+Banga        |  Rytaitis       |  Rytis    |          16    |         2 |  
+Hegelmann    |  Anzelmaitis    |  Anzelmas |          15    |         2 |  
+Hegelmann    |  Ignaitis       |  Ignas    |          15    |         2 |  
+Hegelmann    |  Lauraite       |  Laura    |          15    |         2 |  
+Perkunas     |  Eduardaitis    |  Eduardas |           6    |         2 |  
+Perkunas     |  Ramintaite     |  Raminta  |          21    |         0 |  
+Perkunas     |  Tomaitis       |  Tomas    |          16    |         6 |  
+Tornadas     |  Mataitis       |  Matas    |          18    |         9 |  
+Tornadas     |  Petraitis      |  Petras   |          20    |        11 |  
+Tornadas     |  Robertaitis    |  Robertas |          19    |         1 |  
+Vytis        |  Augustaitis    |  Augustas |           7    |         6 |  
+Vytis        |  Ignaitis       |  Ignas    |          19    |        12 |  
+Vytis        |  Saulevicius    |  Saulius  |           8    |         3 |  
+Zalgiris     |  Gvidaitis      |  Gvidas   |           5    |         4 |  
+Zalgiris     |  Kestaitis      |  Kestas   |          15    |         5 |  
+Zalgiris     |  Rokaitis       |  Rokas    |          11    |         1 |  
+------------------------------------------------------------------------
+
+
+ATRINKTI DUOMENYS(DIDŽAUSIA NAUDINGUMO KOEFICINTĄ TURINTYS ŽAIDĖJAI)
+------------------------------------------------------------------------
+  Komanda    |     Pavarde     |  Vardas   |Sužaistos rungt.| Įvarčiai  |
+------------------------------------------------------------------------
+Banga        |  Edmundaitis    |  Edmundas |          21    |        10 |  
+Hegelmann    |  Anzelmaitis    |  Anzelmas |          15    |         2 |  
+Perkunas     |  Tomaitis       |  Tomas    |          16    |         6 |  
+Tornadas     |  Petraitis      |  Petras   |          20    |        11 |  
+Vytis        |  Ignaitis       |  Ignas    |          19    |        12 |  
+Zalgiris     |  Kestaitis      |  Kestas   |          15    |         5 |  
+------------------------------------------------------------------------
+
+
+Vidutinis sužaistų rungtynių skaičius - 14.3888888888889

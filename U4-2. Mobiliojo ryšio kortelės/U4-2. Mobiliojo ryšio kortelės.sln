@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U4-2. Mobiliojo ryšio kortelės", "U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės.csproj", "{7FF69414-BFB5-4B09-AF09-E2032663BC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{23A055B0-84E7-49D9-93F7-9BF051F1BF3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF69414-BFB5-4B09-AF09-E2032663BC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF69414-BFB5-4B09-AF09-E2032663BC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF69414-BFB5-4B09-AF09-E2032663BC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF69414-BFB5-4B09-AF09-E2032663BC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A055B0-84E7-49D9-93F7-9BF051F1BF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A055B0-84E7-49D9-93F7-9BF051F1BF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A055B0-84E7-49D9-93F7-9BF051F1BF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A055B0-84E7-49D9-93F7-9BF051F1BF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14565B67-3DB1-4178-9D9E-4B89DEB0991A}
+	EndGlobalSection
+EndGlobal

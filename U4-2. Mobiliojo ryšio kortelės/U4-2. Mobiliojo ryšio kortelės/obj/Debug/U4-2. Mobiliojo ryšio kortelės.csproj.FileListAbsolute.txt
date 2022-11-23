@@ -1,0 +1,8 @@
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\obj\Debug\U4-2. Mobiliojo ryšio kortelės.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\obj\Debug\U4-2. Mobiliojo ryšio kortelės.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\obj\Debug\U4-2. Mobiliojo ryšio kortelės.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\bin\Debug\U4_2.Mobiliojo_ryšio_kortelės.exe.config
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\bin\Debug\U4_2.Mobiliojo_ryšio_kortelės.exe
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\bin\Debug\U4_2.Mobiliojo_ryšio_kortelės.pdb
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\obj\Debug\U4_2.Mobiliojo_ryšio_kortelės.exe
+C:\Users\Dede\source\repos\U4-2. Mobiliojo ryšio kortelės\U4-2. Mobiliojo ryšio kortelės\obj\Debug\U4_2.Mobiliojo_ryšio_kortelės.pdb
